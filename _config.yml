@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Tao of Digital Customer Experience (DCX)
 header-img: img/home-bg.png
 email: lee.lispi@gmail.com
 copyright_name: leelispi
 description: > # this means to ignore newlines until "baseurl:"
-  
+  code of behavior
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  leelispi
